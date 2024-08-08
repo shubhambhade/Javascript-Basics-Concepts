@@ -1,0 +1,10 @@
+console.log("Hello World");
+console.log("Dynamically typed language ");
+var a = 23;
+console.log("a = ", a);
+a = "sham";
+console.log("a = ", a);
+let b = 12.34;
+console.log("b = ", b);
+b = 12;
+console.log("b = ", b);
